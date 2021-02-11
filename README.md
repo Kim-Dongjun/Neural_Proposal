@@ -1,8 +1,8 @@
 # Sequential Likelihood-Free Inference with Implicit Surrogate Proposal
 
-Code for reproducing the experiments in the paper:
+Code for reproducing the experiments in the paper submitted to ICML
 
->Kim, Dongjun, et al. "Sequential Likelihood-Free Inference with Implicit Surrogate Proposal." arXiv preprint arXiv:2010.07604 (2020).
+> "Sequential Likelihood-Free Inference with Implicit Surrogate Proposal"
 
 ## Dependencies
 
