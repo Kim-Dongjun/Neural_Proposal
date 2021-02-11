@@ -12,7 +12,6 @@ pyTorch: 1.7.1
 pyknos 0.14.0
 statsmodels 0.12.2
 pyro 1.5.2
-
 ```
 
 ## How to reproduce performances
