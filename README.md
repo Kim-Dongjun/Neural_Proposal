@@ -7,8 +7,12 @@ Code for reproducing the experiments in the paper:
 ## Dependencies
 
 ```
-python: 3.6
-pyTorch: 1.5.1
+python: 3.8
+pyTorch: 1.7.1
+pyknos 0.14.0
+statsmodels 0.12.2
+pyro 1.5.2
+
 ```
 
 ## How to reproduce performances
